@@ -1,0 +1,59 @@
+Title: Flaskborne
+
+Game Concept:
+A 2D, narrative-driven RPG inspired by Undertale. Set in a dark, mysterious world, souls are captured in enchanted flasks, granting their captors immense power. The player, initially joining forces with a seemingly loyal companion, learns that betrayal runs deep within the world they must navigate. As the player uncovers the truth about their companion’s lineage and their father’s dark ambitions, the path to redemption becomes both perilous and emotionally charged.
+
+Main Plot:
+The player enters a realm steeped in mystery, where the soul is both currency and weapon. Souls are imprisoned inside magical flasks, granting their captors immense power. Throughout their journey, the player allies with Zephros Darken, a brave but secretive young man who swears to help defeat the evil sorcerer controlling the realm. Unbeknownst to the player, Zephros’s father is the main antagonist: the sorcerer who uses the captured souls to fuel his insatiable thirst for ultimate power.
+
+As the player and Zephros venture deeper into this world, they are faced with difficult moral choices, the complexity of their relationship with Zephros, and the truth about his allegiance. In the game's heart-wrenching climax, Zephros betrays the player, revealing that he has been working with his father all along. The player must confront their former companion, navigate the emotional fallout, and face the ultimate showdown against the villain, with Zephros’s redemption hanging in the balance.
+
+Flaskborne Members:
+The Flaskborne are a group of ruthless, dark enforcers who serve the villain. Each member has a unique set of powers derived from the souls they capture in their flasks. These enforcers are manipulated and controlled by the villain, but some harbor their own personal motives for their actions.
+
+Embera Shadowblight – The Rogue of Shadows
+Backstory: Embera was once a thief, an outsider who survived by stealing and deceiving others. However, the lure of power through the Flaskborne’s dark magic enticed her. She now wields the power of shadows, allowing her to hide in plain sight, strike from the darkness, and bend reality to her will.
+Motives: Embera seeks control and influence, believing that power is the only way to survive in a world where trust is a liability. Though she serves the main villain, her true goal is to gather enough power to rule her own empire, free from the constraints of loyalty.
+
+Ignis Flameheart – The Fiery Sorcerer
+Backstory: Ignis was once a noble sorcerer, admired for his knowledge of fire magic. But as he grew more desperate to maintain his power, he turned to the Flaskborne and began capturing souls to fuel his flames. Now, he is a dangerous sorcerer with an ability to conjure and control flames hotter than the sun.
+Motives: Ignis is driven by a desire to prove that he is the strongest mage in existence. Though he initially worked under the main villain’s influence, he sees the capture of souls as a means to become the true ruler of the world. His loyalty to the Flaskborne is tenuous at best, and his obsession with power may ultimately make him a threat to both the player and the villain.
+
+Tundra Frostfang – The Warrior of Ice
+Backstory: Tundra was born into a harsh, frozen world where survival was a constant struggle. When the villain offered her the power to freeze enemies and control ice, she eagerly accepted, seeing it as her ticket to never-ending safety. Her ice-based magic allows her to create barriers, freeze opponents in place, and manipulate the cold to her advantage.
+Motives: Tundra seeks security above all else. She’s less concerned with power than with ensuring her own survival and safety. The Flaskborne’s promises of protection are too tempting to refuse, though she harbors deep fears that she may one day be discarded like the souls trapped in the flasks. She’s caught between fear of the villain’s power and the desire for independence.
+
+Galea Stormchaser – The Swift Scout
+Backstory: Galea is a former adventurer, skilled in navigating treacherous terrains. She has the ability to manipulate wind currents, allowing her to move faster than the eye can see and attack from impossible angles. Her talents as a scout made her invaluable to the Flaskborne’s operations, allowing them to locate powerful souls to capture.
+Motives: Galea is driven by a deep-seated need for freedom. Having spent her life constantly on the run, she joined the Flaskborne initially in hopes of gaining protection and a permanent place in the world. However, she quickly realizes that the price of loyalty to the main villain is too steep. As she grows more disillusioned, she must confront the question of whether freedom is worth the price of betrayal.
+
+Zephros Darken's Powers:
+Zephros is the son of the main villain and the leader of the Flaskborne, though he initially hides his true identity from the player. He is a complex character, caught between duty to his father and his own moral compass. His powers are derived from the souls he has captured and infused into his flask, allowing him to manipulate darkness and shadows.
+
+Shadow Manipulation: Zephros can manipulate shadows to hide his movements, create illusions, or trap enemies in dark tendrils. This ability makes him a terrifying opponent who can strike from any angle.
+
+Soul Drain: Zephros draws power from the captured souls in his flask, siphoning their energy to heal himself, enhance his strength, and regenerate his powers. This makes him a formidable foe in battle, as he can become stronger the longer he fights.
+
+Dark Projection: Zephros can create shadowy constructs that fight on his behalf, using the power of darkness to overwhelm opponents. These constructs can take the form of beasts, weapons, or other menacing figures.
+
+Main Villain's Powers:
+The main villain, Zephros's father, is a master manipulator who controls the Flaskborne and uses the captured souls to fuel his own dark ambitions. His powers are even more potent than his son’s, making him a terrifying presence in the game.
+
+Soul Fusion: The villain can merge the souls trapped within his flasks with his own, granting him boundless power. This transformation makes him more dangerous the more souls he collects, amplifying his magical abilities.
+
+Dark Aura: The villain exudes an aura of malevolence that saps the strength and willpower of anyone nearby. This dark presence causes fear, weakness, and despair, making it difficult for the player to stand their ground.
+
+Soul Domination: Using the souls within his flasks, the villain can take control of the minds and bodies of others. His ability to manipulate those around him creates chaos, as friends turn into enemies and allies become pawns in his twisted game.
+
+Climactic Finale:
+After defeating the Flaskborne and their leader, Zephros, the player is confronted by the main villain in a final battle. At first, it seems as if the player is outmatched, but Zephros makes a shocking decision: he uses all of his remaining magic to stop his father’s devastating power. In doing so, Zephros sacrifices himself to give the player a fighting chance. This final act of redemption weakens the main villain, allowing the player to strike the killing blow.
+
+As the main villain falls, the souls of the Flaskborne are released, but Zephros remains a casualty of his own choices. His death leaves the player to face the consequences of their journey, with the weight of betrayal and loss heavy on their heart.
+
+Themes:
+
+Trust and betrayal: Zephros’s journey from ally to enemy and his eventual redemption arc are central to the story's emotional depth.
+
+Power and sacrifice: The quest for ultimate power, embodied by both the main villain and the Flaskborne, comes with devastating consequences for all involved.
+
+Redemption and legacy: Zephros’s ultimate sacrifice highlights the possibility of redemption, even in the darkest of times.
